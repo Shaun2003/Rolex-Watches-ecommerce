@@ -1,8 +1,8 @@
-# Responsive Watches Website ⌚
+# Rolex-Watches-ecommerce ⌚
 
-### Responsive Watches Website ⌚
+### Rolex-Watches-ecommerce ⌚
 
-- Responsive Watches Website Using HTML CSS & JavaScript
+- Rolex-Watches-ecommerce Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
 - Includes a dark and light mode.
 - Developed first with the Mobile First methodology, then for desktop.
